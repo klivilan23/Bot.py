@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Defina seu token do BotFather (recomenda-se armazená-lo em variáveis de ambiente)
-TOKEN = 'SEU_TOKEN_AQUI'
+TOKEN = '6700961816:AAE92A5KjDmruwUsUd_Urmh8Y9TlH5OGMd0'
 
 # Ativando o log para debug
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
